@@ -26,7 +26,7 @@ common:
     styles:
         kgoui_page: # Styling for home page's body background
             index:
-                body_background_color: "#01193B"        # Entire page background color
+                body_background_color: "#345ED9"        # Entire page background color
                 body_background_image: null          # Entire page background image
                 body_background_position: top left   # CSS background-position for the body background image (if specified); per CSS syntax
                 body_background_repeat: no-repeat       # CSS background-repeat for the body background image (if specified); repeat | repeat-x | repeat-y | no-repeat
