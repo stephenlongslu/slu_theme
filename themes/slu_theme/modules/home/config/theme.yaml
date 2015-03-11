@@ -2,10 +2,10 @@
 common:
 
     # This section only applies when this module is configured as list- or springboard-style layout
-    home_hero_image_src: hero-home-2.png
+    home_hero_image_src: archway_02.jpg
     home_hero_image_width: 100%
     home_hero_image_height: auto
-    home_hero_image_max_width: 560px
+    home_hero_image_max_width: 690px
     home_hero_image_max_height: none
     home_hero_image_padding: 12px 0 0 0
     home_hero_image_background_color: null
