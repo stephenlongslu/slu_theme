@@ -7,5 +7,4 @@ require:
     kurogo/kurogo-core: '2.0.*'
     kurogo/kurogo-core: '2.1.*'
     kurogo/kurogo-core: '2.2.*'
-    kurogo/kurogo-core: '2.3.*'
 ...
