@@ -1,0 +1,8 @@
+---
+common:
+    core:
+        ui:
+            search:
+                placeholders:
+                    search: Search Map
+...

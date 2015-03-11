@@ -1,0 +1,13 @@
+---
+common:
+    core:
+        ui:
+            calendar:
+                headings:
+                    description: Description
+                    website: Website
+                    location: Location
+                search:
+                    placeholders:
+                        keyword: Search for Events
+...
