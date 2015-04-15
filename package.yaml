@@ -2,7 +2,7 @@
 id: slu_theme/slu_theme
 description: Package Description
 license: commercial
-version: 1.0
+version: 1.0.1
 require:
     kurogo/kurogo-core: '2.1.*'
     kurogo/kurogo-core: '2.2.*'
